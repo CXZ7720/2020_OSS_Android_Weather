@@ -8,8 +8,7 @@
     <string name="Daejeon">Daejeon</string>
     <string name="Daegu">Daegu</string>
     <string name="Busan">Busan</string>
-    <string name="Introduce">Select + button to modify list.</string>
-    <string name="Introduce2">Tab the city name to get detailed info.</string>
+    <string name="Introduce">Select + button to modify list.\nTab the city name to get detailed info.</string>
     <string name="minTitle">Min temp</string>
     <string name="maxTitle">Max temp</string>
     <string name="humidity">Humidity</string>
